@@ -1,7 +1,6 @@
 ### Hi there 👋
 <hr />
 
-<img width="600px" src="https://github.com/Mishka-Sakhelashvili/React__Node__ShopExample/blob/master/IMG/4zwz7e.gif"/>
 
 <img width="600px" src="https://github.com/Mishka-Sakhelashvili/React__Node__ShopExample/blob/master/IMG/4zwz9x.gif"/>
 
